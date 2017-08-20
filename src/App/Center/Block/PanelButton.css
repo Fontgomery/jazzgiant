@@ -1,0 +1,24 @@
+.btn-group{
+    border-radius: 10px;
+}
+
+.btn-group > button:nth-child(1){
+    background-color: #4a89dc;
+    vertical-align: center;
+    border: none;
+    color: white
+}
+
+.btn-group > button:nth-child(2){
+    background-color: #f4a911;
+    vertical-align: center;
+    border: none;
+    color: white
+}
+
+.btn-group > button:nth-child(3){
+    background-color: #ff6347;
+    vertical-align: center;
+    border: none;
+    color: white
+}
