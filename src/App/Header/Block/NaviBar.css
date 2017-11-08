@@ -1,0 +1,12 @@
+a.navbar-brand{
+    color: white
+}
+
+.navbar{
+    padding-top: 20px;
+    height: 100px
+}
+
+.navbar-link{
+    padding-top: 0px;
+}
